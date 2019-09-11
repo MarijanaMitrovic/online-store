@@ -1,0 +1,26 @@
+[{
+    "id":1,
+    "href":"index.html",
+    "naziv":"Homepage",
+    "aktivan":true
+},
+{
+    "id":2,
+    "href":"product.html",
+    "naziv":"Products",
+    "aktivan": false
+},
+{
+    "id":3,
+    "href":"author.html",
+    "naziv":"Author",
+    "aktivan":false
+},
+{
+    "id":4,
+    "href":"contact.html",
+    "naziv":"Contact",
+    "aktivan":false
+}
+
+]

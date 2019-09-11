@@ -1,0 +1,11 @@
+[{
+    "id":1,
+    "naslov":"About me",
+    "tekst":"Hello, my name is Marijana Mitrovic. I am 23 years old and student of ICT college of applied studies in Belgrade. This website was made for Web Programming 2.",
+    "citat":"Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.",
+    "autor":"- Steve Job’s ",
+    "slika":{
+        "src":"images/author.jpg",
+        "alt":"author"
+    }
+}]

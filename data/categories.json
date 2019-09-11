@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title": "Women",
+         "slika":{
+             "src":"images/banner-01.jpg",
+             "alt":"Women banner"
+         },
+         "opis":"Spring 2019"
+    },
+    {
+        "id": 2,
+        "title": "Men",
+        "slika":{
+            "src":"images/banner-02.jpg",
+            "alt":"Men banner"
+        },
+        "opis":"Spring collection"
+        
+    },
+    {
+        "id": 3,
+        "title": "Accessorise",
+        "slika":{
+            "src":"images/banner-03.jpg",
+            "alt":"Accessorise banner"
+        },
+        "opis":"New 2019 trend"
+        
+    }
+]

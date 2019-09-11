@@ -1,0 +1,471 @@
+[
+    {
+        "id":1,
+        "name": "Esprit Ruffle Shirt",
+        "price":  16.64,
+        "photo":{
+            "src":"images/product-01.jpg",
+            "alt":"Product1"
+        },
+        "category":{
+            "id": 1,
+            "title":"Women"
+        },
+        "colors":[
+            {
+                "id": 2,
+                "title": "White",
+                "color": "#aaa"
+            },
+            {
+                "id": 1,
+                "title": "Black",
+                "color": "#222"
+            },
+            {
+                "id": 4,
+                "title": "Blue",
+                "color":"#4272d7"
+            }
+
+        ]
+
+    },
+  
+
+    {
+        "id":2,
+        "name": "Herschel Supply",
+        "price": 35.45,
+        "photo":{
+            "src":"images/product-02.jpg",
+            "alt":"Product 2"
+        },
+        "category":{
+            "id": 1,
+            "title": "Women"
+        },
+        "colors":[
+            {
+                "id": 2,
+                "title":"White",
+                "color":"#aaa"
+            },
+            {
+                "id": 3,
+                "title": "Grey",
+                "color":"#b3b3b3"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":3,
+        "name":"Men shirt",
+        "price": 42.25,
+        "photo":{
+            "src":"images/product-03.jpg",
+            "alt":"Product 3"
+        },
+        "category":{
+            "id": 2,
+            "title": "Men"
+        },
+        "colors":[
+            {
+                "id":4,
+                "title":"Blue",
+                "color":"#4272d7"
+            },
+            {
+                "id":1,
+                "title":"Black",
+                "color":"#222"
+            },
+            {
+                "id":5,
+                "title":"Red",
+                "color":"#fa4251"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":4,
+        "name":"Classic Coat",
+        "price": 75.00,
+        "photo":{
+            "src":"images/product-04.jpg",
+            "alt":"Product 4"
+        },
+        "category":{
+            "id": 1,
+            "title":"Women"
+        },
+        "colors":[
+            {
+                "id": 1,
+                "title": "Black",
+                "color":"#222"
+            },
+            {
+                "id":3,
+                "title":"Grey",
+                "color":"#b3b3b3"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":5,
+        "name":"Front Pocket Jumper",
+        "price":34.50,
+        "photo":{
+            "src":"images/product-05.jpg",
+            "alt":"Product 5"
+        },
+        "category":{
+            "id": 1,
+            "title":"Women"
+        },
+        "colors":[
+            {
+                "id":3,
+                "title":"Grey",
+                "color":"#b3b3b3"
+                
+            },
+            {
+                "id":4,
+                "title":"Blue",
+                "color":"#4272d7"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":6,
+        "name":"Wintage Inspired Watch",
+        "price": 99.99,
+        "photo":{
+            "src":"images/product-06.jpg",
+            "alt":"Product 6"
+        },
+        "category":{
+            "id": 3,
+            "title":"Accessorise"
+        },
+        "colors":[
+            {
+                "id":1,
+                "title":"Black",
+                "color":"#222"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":7,
+        "name": "Shirt in Stretch cotton",
+        "price": 52.00,
+        "photo":{
+            "src":"images/product-07.jpg",
+            "alt":"Product 7"
+        },
+        "category":{
+            "id": 1,
+            "title":"Women"
+        },
+        "colors":[
+            {
+                "id":3,
+                "title":"Grey",
+                "color":"#b3b3b3"
+            },
+            {
+                "id":2,
+                "title":"White",
+                "color":"#aaa"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":8,
+        "name":"Pieces Metallic Printed",
+        "price":22.45,
+        "photo":{
+            "src":"images/product-08.jpg",
+            "alt":"Product 8"
+        },
+        "category":{
+            "id": 1,
+            "title":"Women"
+        },
+        "colors":[
+            {
+                "id":2,
+                "title":"White",
+                "color":"#aaa"
+            },
+            {
+                "id":5,
+                "title":"Red",
+                "color":"#fa4251"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":9,
+        "name":"Converse All Star",
+        "price":75.00,
+        "photo":{
+            "src":"images/product-09.jpg",
+            "alt":"Product 9"
+        },
+        "category":{
+            "id": 3,
+            "title":"Accessorise"
+        },
+        "colors":[
+            {
+                "id":1,
+                "title":"Black",
+                "color":"#222"
+            },
+            {
+                "id":5,
+                "title":"Red",
+                "color":"#fa4251"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":10,
+        "name":"T-shirt in Supply",
+        "price": 25.85,
+        "photo":{
+            "src":"images/product-10.jpg",
+            "alt":"Product 10"
+        },
+        "category":{
+            "id": 1,
+            "title":"Women"
+        },
+        "colors":[
+            {
+                "id":1,
+                "title":"Black",
+                "color":"#222"
+            },
+            {
+                "id":2,
+                "title": "White",
+                "color":"#aaa"
+            },
+            {
+                "id":3,
+                "title":"Grey",
+                "color":"#b3b3b3"
+            },
+            {
+                "id":4,
+                "title":"Blue",
+                "color":"#4272d7"
+            },
+            {
+                "id":5,
+                "title":"Red",
+                "color":"#fa4251"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":11,
+        "name": "Long - sleeve Shirt",
+        "price": 56.95,
+        "photo":{
+            "src":"images/product-11.jpg",
+            "alt":"Product 11"
+        },
+        "category":{
+            "id": 2,
+            "title":"Men"
+        },
+        "colors":[
+            {
+                "id":2,
+                "title":"White",
+                "color":"#aaa"
+            },
+            {
+                "id":4,
+                "title":"Blue",
+                "color":"#4272d7"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":12,
+        "name": "Leather Belt",
+        "price": 63.00,
+        "photo":{
+            "src":"images/product-12.jpg",
+            "alt":"Product 12"
+        },
+        "category":{
+            "id": 3,
+            "title":"Accessorise"
+        },
+        "colors":[
+            {
+                "id": 1,
+                "title":"Black",
+                "color":"#222"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":13,
+        "name":"T-shirt with Sleeve",
+        "price": 22.50,
+        "photo":{
+            "src":"images/product-13.jpg",
+            "alt":"Product 13"
+        },
+        "category":{
+            "id": 1,
+            "title":"Women"
+        },
+        "colors":[
+            {
+                "id":2,
+                "title":"White",
+                "color":"#aaa"
+            },
+            {
+                "id":5,
+                "title":"Red",
+                "color":"#fa4251"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":14,
+        "name":"Pretty Little Thing",
+        "price": 30.00,
+        "photo":{
+            "src":"images/product-14.jpg",
+            "alt":"Product 14"
+        },
+        "category":{
+            "id": 1,
+            "title":"Women"
+        },
+        "colors":[
+            {
+                "id":1,
+                "title":"Black",
+                "color":"#222"
+            },
+            {
+                "id":3,
+                "title":"Grey",
+                "color":"#b3b3b3"
+            },
+            {
+                "id":4,
+                "title":"Blue",
+                "color":"#4272d7"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":15,
+        "name":"Mini Silver Watch",
+        "price":86.99 ,
+        "photo":{
+            "src":"images/product-15.jpg",
+            "alt":"Product 15"
+        },
+        "category":{
+            "id": 3,
+            "title":"Accessorise"
+        },
+        "colors":[
+            {
+                "id":3,
+                "title":"Grey",
+                "color":"#b3b3b3"
+            },
+            {
+                "id": 2,
+                "title": "White",
+                "color":"#aaa"
+            }
+
+        ]
+
+    },
+
+    {
+        "id":16,
+        "name": "Square Neck Back",
+        "price":29.65 ,
+        "photo":{
+            "src":"images/product-16.jpg",
+            "alt":"Product 16"
+        },
+        "category":{
+            "id": 1,
+            "title":"Women"
+        },
+        "colors":[
+            {
+                "id":4,
+                "title":"Blue",
+                "color":"#4272d7"
+            },
+            {
+                "id":5,
+                "title":"Red",
+                "color":"#fa4251"
+            }
+
+        ]
+
+    }
+]
